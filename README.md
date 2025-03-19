@@ -1,6 +1,5 @@
 # 💫 About Me:
 Hi, I'm Soren! I'm an aspiring developer currently learning C++, C#, Java, and exploring various other languages.
-I'm currently learning C++, C#, Java, and alot more
 
 
 # 💻 Tech Stack:
